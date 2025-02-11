@@ -1,3 +1,5 @@
-# Backend - 1 
+# Backend - 1  :computer:
 
-### Repositorio para la materia de BACKEND I 
+## Manual de Usuario :book:
+En este documento proporcionaremos una guía completa al usuario para la materia de Backend I
+
